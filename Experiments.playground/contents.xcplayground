@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Plano Cartesiano'/>
+        <page name='Lluvia'/>
+        <page name='Ciclo'/>
+        <page name='Serpientes y escaleras 1'/>
+        <page name='Serpientes y escaleras 2'/>
+        <page name='operacion'/>
+    </pages>
+</playground>
